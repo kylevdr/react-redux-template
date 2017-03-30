@@ -1,0 +1,19 @@
+{
+  "name": "react-redux-template",
+  "version": "1.0.0",
+  "description": "Starter template for React-Redux projects.",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylevdr/react-redux-template.git"
+  },
+  "author": "Kyle VanDeRiet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylevdr/react-redux-template/issues"
+  },
+  "homepage": "https://github.com/kylevdr/react-redux-template#readme"
+}
