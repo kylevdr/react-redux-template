@@ -1,4 +1,4 @@
-# react-redux-template
+# React-Redux Template
 Starter template for projects using React, Redux, SASS, and Webpack.
 
 ### Instructions
